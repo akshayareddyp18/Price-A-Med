@@ -1,57 +1,84 @@
-Price A Med (PAM)
-Price A Med (PAM) is a smart, AI-powered prescription benefit management system designed to bring Security, Affordability, and Transparency to drug purchasing. It addresses critical issues in healthcare such as rising drug costs, lack of insurance clarity, and poor medication adherence.
+# 💊 Price A Med (PAM)
 
-Problem Statement
-High Medication Costs and No Price Transparency
-Patients often overpay for the same drug at different pharmacies with no way to compare prices.
+> A **smart, AI-powered prescription benefit management system** designed to bring **Security, Affordability, and Transparency** to drug purchasing.  
 
-Insurance Confusion and Hidden Costs
-Users struggle to understand what their insurance covers, leading to unexpected out-of-pocket expenses.
+---
 
-Manual Prescription Uploads
-Traditional systems require manual input with no automation to extract prescription details.
+## 📌 Problem Statement
 
-No Unified System for Family Members
-Separate accounts are required for each family member, creating inefficiencies.
+<details>
+<summary>⚠️ Challenges in Healthcare</summary>
 
-Lack of Smart Reminders and Adherence Tracking
-Users miss doses or renewals due to absence of automated notifications.
+- **High Medication Costs & No Price Transparency**  
+  Patients often overpay for the same drug at different pharmacies with no way to compare prices.  
 
-Solution – Price A Med (PAM)
-PAM is a smarter prescription benefit platform offering:
+- **Insurance Confusion & Hidden Costs**  
+  Users struggle to understand what their insurance covers, leading to unexpected out-of-pocket expenses.  
 
-Secure and centralized patient management
-Real-time drug pricing across pharmacies
-Insurance coverage visibility before purchase
-AI-driven prescription data extraction
-Smart alerts for dosage, refills, and adherence
-Family-based account management
-Key Features
-Real-Time Drug Price Comparison
-Compare medication costs across multiple pharmacy stores.
+- **Manual Prescription Uploads**  
+  Traditional systems require manual input with no automation to extract prescription details.  
 
-AI-Powered Prescription Processing
-Automatically extracts drug name, physician details, dosage, and diagnosis from uploaded prescriptions.
+- **No Unified Family System**  
+  Separate accounts are required for each family member, creating inefficiencies.  
 
-Family and Dependents Management
-Manage all prescriptions under one membership plan for the entire family.
+- **Lack of Smart Reminders & Adherence Tracking**  
+  Users miss doses or renewals due to absence of automated notifications.  
 
-Medication Reminders and Adherence Tracking
-Sends intelligent reminders to help users take medication on time.
+</details>
 
-Inventory and Order Tracking
-Monitor prescription availability and delivery status in real-time.
+---
 
-Insurance Cost Breakdown
-View accurate cost coverage before payment, ensuring transparency.
+## ✅ Solution – Price A Med (PAM)
 
-Target Users
-Employers managing health benefits
-Regular prescription consumers
-Pharmacies and drug stores
-Workflow Overview
-Member Registration with OTP-based authentication
-Prescription Upload with automatic data extraction
-Add dependents under one profile
-Compare prices and track orders
-Receive smart reminders and adherence support
+PAM is a **smarter prescription benefit platform** offering:
+
+- 🔒 Secure & Centralized Patient Management  
+- 💰 Real-time Drug Pricing Across Pharmacies  
+- 📑 Insurance Coverage Visibility Before Purchase  
+- 🤖 AI-driven Prescription Data Extraction  
+- 🔔 Smart Alerts for Dosage, Refills & Adherence  
+- 👨‍👩‍👧 Family-based Account Management  
+
+---
+
+## ✨ Key Features
+
+- 📊 **Real-Time Drug Price Comparison** – Compare medication costs across multiple pharmacy stores.  
+- 🤖 **AI-Powered Prescription Processing** – Extracts drug name, physician details, dosage, and diagnosis.  
+- 👨‍👩‍👧 **Family & Dependents Management** – Manage all prescriptions under one membership plan.  
+- ⏰ **Medication Reminders** – Intelligent alerts to help users take medication on time.  
+- 📦 **Inventory & Order Tracking** – Monitor prescription availability and delivery status in real time.  
+- 💳 **Insurance Cost Breakdown** – View accurate cost coverage before payment, ensuring transparency.  
+
+---
+
+## 🎯 Target Users
+
+- 🏢 Employers managing health benefits  
+- 👩‍⚕️ Regular prescription consumers  
+- 🏪 Pharmacies and drug stores  
+
+---
+
+## 🔄 Workflow Overview
+
+1. 👤 **Member Registration** – OTP-based authentication  
+2. 📤 **Prescription Upload** – Automatic data extraction using AI  
+3. 👨‍👩‍👧 **Add Dependents** – Manage family prescriptions under one profile  
+4. 💊 **Compare Prices** – Across pharmacies before purchase  
+5. 📦 **Track Orders & Inventory** – Real-time delivery and availability updates  
+6. 🔔 **Receive Smart Reminders** – Dosage, refills, and adherence support  
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend**: React / Angular  
+- **Backend**: Spring Boot  
+- **Database**: PostgreSQL / MySQL  
+- **Deployment**: Docker  
+- **AI**: NLP & OCR for prescription processing  
+
+---
+
+📌 *Designed to make healthcare affordable, transparent, and user-friendly.*  
