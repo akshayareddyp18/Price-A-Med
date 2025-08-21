@@ -1,13 +1,13 @@
-# 💊 Price A Med (PAM)
+# Price A Med (PAM)
 
 > A **smart, AI-powered prescription benefit management system** designed to bring **Security, Affordability, and Transparency** to drug purchasing.  
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 <details>
-<summary>⚠️ Challenges in Healthcare</summary>
+<summary>Challenges in Healthcare</summary>
 
 - **High Medication Costs & No Price Transparency**  
   Patients often overpay for the same drug at different pharmacies with no way to compare prices.  
@@ -28,57 +28,57 @@
 
 ---
 
-## ✅ Solution – Price A Med (PAM)
+## Solution – Price A Med (PAM)
 
 PAM is a **smarter prescription benefit platform** offering:
 
-- 🔒 Secure & Centralized Patient Management  
-- 💰 Real-time Drug Pricing Across Pharmacies  
-- 📑 Insurance Coverage Visibility Before Purchase  
-- 🤖 AI-driven Prescription Data Extraction  
-- 🔔 Smart Alerts for Dosage, Refills & Adherence  
-- 👨‍👩‍👧 Family-based Account Management  
+- Secure & Centralized Patient Management  
+- Real-time Drug Pricing Across Pharmacies  
+- Insurance Coverage Visibility Before Purchase  
+- AI-driven Prescription Data Extraction  
+- Smart Alerts for Dosage, Refills & Adherence  
+- Family-based Account Management  
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 📊 **Real-Time Drug Price Comparison** – Compare medication costs across multiple pharmacy stores.  
-- 🤖 **AI-Powered Prescription Processing** – Extracts drug name, physician details, dosage, and diagnosis.  
-- 👨‍👩‍👧 **Family & Dependents Management** – Manage all prescriptions under one membership plan.  
-- ⏰ **Medication Reminders** – Intelligent alerts to help users take medication on time.  
-- 📦 **Inventory & Order Tracking** – Monitor prescription availability and delivery status in real time.  
-- 💳 **Insurance Cost Breakdown** – View accurate cost coverage before payment, ensuring transparency.  
-
----
-
-## 🎯 Target Users
-
-- 🏢 Employers managing health benefits  
-- 👩‍⚕️ Regular prescription consumers  
-- 🏪 Pharmacies and drug stores  
+-  **Real-Time Drug Price Comparison** – Compare medication costs across multiple pharmacy stores.  
+-  **AI-Powered Prescription Processing** – Extracts drug name, physician details, dosage, and diagnosis.  
+-  **Family & Dependents Management** – Manage all prescriptions under one membership plan.  
+-  **Medication Reminders** – Intelligent alerts to help users take medication on time.  
+-  **Inventory & Order Tracking** – Monitor prescription availability and delivery status in real time.  
+-  **Insurance Cost Breakdown** – View accurate cost coverage before payment, ensuring transparency.  
 
 ---
 
-## 🔄 Workflow Overview
+##  Target Users
 
-1. 👤 **Member Registration** – OTP-based authentication  
-2. 📤 **Prescription Upload** – Automatic data extraction using AI  
-3. 👨‍👩‍👧 **Add Dependents** – Manage family prescriptions under one profile  
-4. 💊 **Compare Prices** – Across pharmacies before purchase  
-5. 📦 **Track Orders & Inventory** – Real-time delivery and availability updates  
-6. 🔔 **Receive Smart Reminders** – Dosage, refills, and adherence support  
+-  Employers managing health benefits  
+-  Regular prescription consumers  
+-  Pharmacies and drug stores  
 
 ---
 
-## 🚀 Tech Stack
+##  Workflow Overview
 
-- **Frontend**: React / Angular  
+1.  **Member Registration** – OTP-based authentication  
+2.  **Prescription Upload** – Automatic data extraction using AI  
+3.  **Add Dependents** – Manage family prescriptions under one profile  
+4.  **Compare Prices** – Across pharmacies before purchase  
+5.  **Track Orders & Inventory** – Real-time delivery and availability updates  
+6.  **Receive Smart Reminders** – Dosage, refills, and adherence support  
+
+---
+
+##  Tech Stack
+
+- **Frontend**: React  
 - **Backend**: Spring Boot  
-- **Database**: PostgreSQL / MySQL  
+- **Database**: MySQL  
 - **Deployment**: Docker  
 - **AI**: NLP & OCR for prescription processing  
 
 ---
 
-📌 *Designed to make healthcare affordable, transparent, and user-friendly.*  
+*Designed to make healthcare affordable, transparent, and user-friendly.*  
