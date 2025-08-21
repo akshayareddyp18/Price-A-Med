@@ -6,8 +6,6 @@
 
 ## Problem Statement
 
-<details>
-<summary>Challenges in Healthcare</summary>
 
 - **High Medication Costs & No Price Transparency**  
   Patients often overpay for the same drug at different pharmacies with no way to compare prices.  
@@ -24,7 +22,6 @@
 - **Lack of Smart Reminders & Adherence Tracking**  
   Users miss doses or renewals due to absence of automated notifications.  
 
-</details>
 
 ---
 
